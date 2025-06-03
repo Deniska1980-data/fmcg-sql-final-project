@@ -27,7 +27,7 @@ FMCG-Projekt/
 
 ---
 ## ERD Diagram
-!(FMCG%20Projekt_ERD%20diagram.png)
+![ERD](FMCG%20ERD%20diagram.png)
 ---
 
 ## Vizualizace
