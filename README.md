@@ -27,20 +27,19 @@ FMCG-Projekt/
 
 ---
 ## ERD Diagram
-
-![ERD Diagram](images/FMCG_Projekt_ERD_diagram.png)
+![ERD](FMCG%20Projekt_ERD%20diagram.png)
 ---
 
 ## Vizualizace
 
 ### Počet nákupů podle dne v týdnu a státu
-![Denní nákupy](images/počet_nákupu_podle_dne_v_týdnu_a_státu.jpg)
+![Denní nákupy](počet%20nákupu%20podle%20dne%20v%20týdnu%20a%20státu.jpg)
 
 ### Počet nákupů podle hodin (celkově)
-![Nákupy podle hodin](images/počet_nákupu_podle_hodiny_FMCG.jpg)
+![Celkové časy](počet%20nákupu%20podle%20hodiny_FMCG.jpg)
 
 ### Počet nákupů podle hodin – Tesa vs. Leda
-![Nákupy Tesa vs. Leda](images/počet_nákupu_podle_hodin_-_Tesa_vs._Leda.jpg)
+![Hodiny Tesa vs. Leda](počet%20nákupu%20podle%20hodin%20-%20Tesa%20vs.%20Leda.jpg)
 
 ---
 ## 📂Soubory ve složce `/data`
