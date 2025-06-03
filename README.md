@@ -26,9 +26,6 @@ FMCG-Projekt/
 └── README.md         # Popis projektu (tento soubor)
 
 ---
-## ERD Diagram
-![ERD Diagram](images/ERD_diagram.jpg)
----
 
 ## Vizualizace
 
