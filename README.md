@@ -60,13 +60,13 @@ GROUP BY currency;
 ----
 ## Co jsem se naučila
 
-Samostatně jsem psala a ladila SQL dotazy na reálných FMCG datech
-Opravovala jsem nesprávně přiřazené měny k obchodům (CZ = CZK, SK = EUR)
-Přizpůsobila jsem DPH sazby dle země a náležitých produktů (CZ: 2 sazby, SK: 3 sazby)
-Porovnávala jsem nákupní časy v různých městech a státech
-Vytvářela jsem grafy a vizualizace v Pythonu pro lepší interpretaci výsledků
-Používala jsem ChatGPT pouze jako pomocníka při kontrole syntaxe a návrhu promptů
-Všechny výstupy jsem ručně ověřila a logicky interpretovala
+Samostatně jsem psala a ladila SQL dotazy na reálných FMCG datech.
+Opravovala jsem nesprávně přiřazené měny k obchodům (CZ = CZK, SK = EUR).
+Přizpůsobila jsem DPH sazby dle země a náležitých produktů (CZ: 2 sazby, SK: 3 sazby).
+Porovnávala jsem nákupní časy v různých městech a státech.
+Vytvářela jsem grafy a vizualizace v Pythonu pro lepší interpretaci výsledků.
+Používala jsem ChatGPT pouze jako pomocníka při kontrole syntaxe a návrhu promptů.
+Všechny výstupy jsem ručně ověřila a logicky interpretovala.
 
 📌 Tento projekt je součástí mého portfolia jako Junior Data Analyst a představuje důkaz mé schopnosti:
 - pracovat s databázemi,
